@@ -1,0 +1,32 @@
+F:\GGPro\Library Management System\bin\Debug\net6.0\appsettings.Development.json
+F:\GGPro\Library Management System\bin\Debug\net6.0\appsettings.json
+F:\GGPro\Library Management System\bin\Debug\net6.0\Library Management System.exe
+F:\GGPro\Library Management System\bin\Debug\net6.0\Library Management System.deps.json
+F:\GGPro\Library Management System\bin\Debug\net6.0\Library Management System.runtimeconfig.json
+F:\GGPro\Library Management System\bin\Debug\net6.0\Library Management System.dll
+F:\GGPro\Library Management System\bin\Debug\net6.0\Library Management System.pdb
+F:\GGPro\Library Management System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\GGPro\Library Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GGPro\Library Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GGPro\Library Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.csproj.AssemblyReference.cache
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfoInputs.cache
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.AssemblyInfo.cs
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.csproj.CoreCompileInputs.cache
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.MvcApplicationPartsAssemblyInfo.cs
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.MvcApplicationPartsAssemblyInfo.cache
+F:\GGPro\Library Management System\obj\Debug\net6.0\staticwebassets\msbuild.Library Management System.Microsoft.AspNetCore.StaticWebAssets.props
+F:\GGPro\Library Management System\obj\Debug\net6.0\staticwebassets\msbuild.build.Library Management System.props
+F:\GGPro\Library Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library Management System.props
+F:\GGPro\Library Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library Management System.props
+F:\GGPro\Library Management System\obj\Debug\net6.0\staticwebassets.pack.json
+F:\GGPro\Library Management System\obj\Debug\net6.0\staticwebassets.build.json
+F:\GGPro\Library Management System\obj\Debug\net6.0\staticwebassets.development.json
+F:\GGPro\Library Management System\obj\Debug\net6.0\scopedcss\bundle\Library Management System.styles.css
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.dll
+F:\GGPro\Library Management System\obj\Debug\net6.0\refint\Library Management System.dll
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.pdb
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library Management System.genruntimeconfig.cache
+F:\GGPro\Library Management System\obj\Debug\net6.0\ref\Library Management System.dll
+F:\GGPro\Library Management System\obj\Debug\net6.0\Library .F7D87690.Up2Date
